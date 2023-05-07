@@ -49,5 +49,5 @@ A short report (300-1000 words) describing the challenges you faced, failed atte
 
 ## APK Releases
 
-1. Add your release name and update this [link](https://example.org)
+1. Add your release name and update this [link](https://github.com/jenniferksantos/MobileAppProject/tags)
 2. YouTube [link](https://youtu.be/dL2SdjgFqjY)
