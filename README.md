@@ -1,8 +1,8 @@
 # Mobile Apps 1 Project
 
-- Student Name: Your name
-- Student ID: 123456
-- Course: Your course
+- Student Name: Jennifer K Dos Santos
+- Student ID: 22605
+- Course: Science in Computing
 
 ## Requirement Checklist
 
@@ -50,3 +50,4 @@ A short report (300-1000 words) describing the challenges you faced, failed atte
 ## APK Releases
 
 1. Add your release name and update this [link](https://example.org)
+2. [link](https://youtu.be/dL2SdjgFqjY)
